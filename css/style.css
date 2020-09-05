@@ -372,7 +372,7 @@ a img.aligncenter {
 }
 
 .header_style_01 .navbar-brand {
-    padding: 2px 15px 0 15px;
+    padding: 0px 0px 0 0px;
 }
 
 .header_style_01 .navbar-default .navbar-nav > li > a {
@@ -394,6 +394,10 @@ a img.aligncenter {
     opacity: 0.7;
     filter: alpha(opacity=70);
     /* For IE8 and earlier */
+}
+
+.navbar-brand > img{
+    margin-top: 2px;
 }
 
 .header_style_01 .navbar-right > li {
