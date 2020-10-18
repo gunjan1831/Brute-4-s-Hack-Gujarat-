@@ -5,3 +5,5 @@ online hackathon organized by hack-gujarat
 Live here -https://brute4s.netlify.app/
 
 Demo - https://youtu.be/O3Dp-yCwU0U
+
+The python program and the wireframes are also there in this repository.
