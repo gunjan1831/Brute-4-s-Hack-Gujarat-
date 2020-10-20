@@ -1,6 +1,6 @@
 # Brute-4-s-Hack-Gujarat-
 ## Antidote (Health Awareness and disease diagnosis website)
-online hackathon organized by hack-gujarat 
+Repository of online hackathon organized by hack-gujarat 
 
 Live here -https://brute4s.netlify.app/
 
